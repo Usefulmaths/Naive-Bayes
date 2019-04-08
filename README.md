@@ -4,4 +4,4 @@ A Python implementation of the Gaussian Naïve Bayes classifier. An example of i
 
 Assumptions: 
   - Each feature is conditionally independent from each other given the label.
-  - Each feature given the label follows a Gaussian distributions.
+  - Each feature given the label follows a Gaussian distribution.
